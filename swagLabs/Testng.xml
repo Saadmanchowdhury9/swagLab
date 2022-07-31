@@ -1,0 +1,10 @@
+
+<!-- <suite name="TestSuite" parallel="tests"> -->
+<suite name="TestSuite">
+
+	<test name="Chrome Test">
+		<packages>
+			<package name="pages" />
+		</packages>
+	</test>
+</suite>
